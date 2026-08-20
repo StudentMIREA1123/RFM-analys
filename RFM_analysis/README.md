@@ -50,22 +50,5 @@
 
 ## Инструменты
 
-Python, pandas, numpy, matplotlib, seaborn, scipy, squarify (для treemap-визуализации сегментов)
+Python, pandas, numpy, matplotlib, seaborn, scipy, squarify
 
-## Как воспроизвести
-
-1. Скачай датасет [Online Retail с UCI](https://archive.ics.uci.edu/dataset/352/online+retail) и положи файл в папку `data/online_retail.csv`
-2. Установи зависимости: `pip install pandas numpy matplotlib seaborn scipy squarify`
-3. Открой `RFM-analys.ipynb` в Jupyter и выполни все ячейки по порядку
-
-## Структура репозитория
-
-```
-├── RFM-analys.ipynb   — основной ноутбук с анализом
-├── data/               — папка для датасета (не включена в репозиторий, см. инструкцию выше)
-└── README.md
-```
-
-## Автор
-
-*(твоё имя, ссылка на LinkedIn/резюме)*
